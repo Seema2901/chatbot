@@ -1,10 +1,10 @@
 # Import python packages
 import pandas as pd
 import streamlit as st
-from snowflake.snowpark.context import get_active_session
-from snowflake.cortex import Complete
-import snowflake.snowpark.functions as F
-import snowflake.snowpark.types as T
+#from snowflake.snowpark.context import get_active_session
+#from snowflake.cortex import Complete
+#import snowflake.snowpark.functions as F
+#import snowflake.snowpark.types as T
 
 # Set Streamlit page configuration
 st.set_page_config(layout="wide", initial_sidebar_state="expanded")
